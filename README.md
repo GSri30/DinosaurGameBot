@@ -6,7 +6,7 @@
   </a>
 </p>
 
-> This is a very basic bot which can play the dinosaur game automatically! NOTE: This bot is not designed for nigth mode!
+> This is a very basic bot which can play the chrome dinosaur game automatically! NOTE: This bot is not designed for nigth mode!. Hence to play the game for a little longer time, we can head over <a href="http://www.trex-game.skipser.com/">here</a>, which doesn't have any night mode!
 
 ## Install
 
