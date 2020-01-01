@@ -13,6 +13,18 @@
 ```sh
 sudo apt-get install python-pip
 ```
+```sh
+sudo pip install pillow
+```
+```sh
+pip install pyscreeenshot
+```
+```sh
+sudo apt-get install scrot
+```
+```sh
+pip install pyautogui
+```
 
 ## Usage
 
@@ -33,4 +45,4 @@ python dinosaur.py
 Give a ⭐️ if this project helped you!
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+This README was generated with ❤️ 
