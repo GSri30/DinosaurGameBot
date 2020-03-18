@@ -33,6 +33,8 @@ python dinosaur.py
 ```
 > Note: After the command, be sure to have the browser window maximized and there shouldn't be any other window over it. And try to minimize the terminal within 2sec after the command!
 
+https://youtu.be/QmHfG3LJEBo
+
 ## Author
 
 👤 **Sri Harsha G**
